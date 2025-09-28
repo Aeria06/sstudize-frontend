@@ -1,0 +1,74 @@
+{
+  "timestamp": "2025-09-26T20:16:31.956769",
+  "student_id": "JEE_20250926_201631",
+  "academic_performance": {
+    "physics": 100.0,
+    "chemistry": 75.0,
+    "mathematics": 75.0,
+    "overall_academic": 83.25
+  },
+  "soft_skills_assessment": {
+    "time_management": {
+      "score": 80.0,
+      "preparation_method": "I follow a structured 3-hour daily study plan focusing on weak topics and regular revision",
+      "consistency": "High"
+    },
+    "problem_solving": {
+      "primary_approach": "Systematic breakdown",
+      "strategy": "I break complex problems into smaller steps, understand the theory first, then practice similar problems"
+    },
+    "stress_management": {
+      "stress_frequency": 6,
+      "stress_level": "Medium",
+      "relaxation_method": "I practice deep breathing exercises and take 15-minute breaks every hour during study"
+    },
+    "study_techniques": {
+      "primary_resource": "Coaching material",
+      "group_study_effectiveness": 60.0,
+      "preferred_technique": "Mock tests and error analysis help me identify patterns in my mistakes and improve faster"
+    }
+  },
+  "soca_analysis": {
+    "strengths": [
+      "Strong academic foundation across all subjects",
+      "Demonstrates good conceptual understanding",
+      "Excellent Physics performance",
+      "Excellent Chemistry performance",
+      "Excellent Mathematics performance",
+      "Excellent time management and study discipline",
+      "Uses systematic problem-solving approach"
+    ],
+    "opportunities": [],
+    "challenges": [],
+    "action_plan": [
+      "Take full-length mock tests weekly",
+      "Focus on speed and accuracy improvement",
+      "Solve JEE Advanced level problems regularly"
+    ]
+  },
+  "detailed_recommendations": {
+    "physics": [
+      "Maintain physics performance with regular practice",
+      "Help others with physics - teaching reinforces learning",
+      "Solve JEE Advanced physics questions",
+      "Focus on tricky physics problems"
+    ],
+    "chemistry": [
+      "Maintain chemistry performance with regular practice",
+      "Help others with chemistry - teaching reinforces learning",
+      "Solve JEE Advanced chemistry questions",
+      "Focus on tricky chemistry problems"
+    ],
+    "mathematics": [
+      "Maintain mathematics performance with regular practice",
+      "Help others with mathematics - teaching reinforces learning",
+      "Solve JEE Advanced mathematics questions",
+      "Focus on tricky mathematics problems"
+    ],
+    "general": [
+      "Maintain consistency in performance",
+      "Focus on JEE Advanced preparation",
+      "Help others to reinforce your learning"
+    ]
+  },
+  "immediate_next_steps": 
