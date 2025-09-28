@@ -879,7 +879,7 @@ function App() {
     console.log('Sending payload:', JSON.stringify(payload, null, 2));
     
     try {
-      const res = await fetch(" https://sstudize-backend-final.onrender.com", {
+      const res = await fetch(" https://sstudize-backend-final.onrender.com/api/soca-report", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(payload)
